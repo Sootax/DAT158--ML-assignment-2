@@ -2,6 +2,8 @@
 
 Phishing detection from the URL string alone, evaluated on a temporal validation split.
 
+**Try it live:** [Lenkesjekk on Hugging Face Spaces](https://huggingface.co/spaces/Sootax/lenkesjekk) – paste a link and see how the model rates it.
+
 Tested with Python 3.12 (package versions are pinned in `requirements.txt`).
 
 ## Setup
